@@ -1,5 +1,8 @@
 .venv
 .venv311
+data_old
+data 2
 data/*
 !data/.gitkeep
 .DS_Store
+data.zip
