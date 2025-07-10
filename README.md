@@ -11,9 +11,11 @@ DL School part 2 (NLP/Audio) final project
 # Cameron
 
 Source: https://drive.google.com/file/d/15biYFFIdWred4ZAiG10PSp7sMrHmFMsm/view?usp=drive_link
+
 Dubbed: https://drive.google.com/file/d/15kbQQC6__52ynsW0HFv8rYgiSkihcIyn/view?usp=drive_link
 
 # Bruno
 
 Source: https://drive.google.com/file/d/15msn-hSWxOnGWcW57a_PC3RyhMfXB3Q0/view?usp=drive_link
+
 Dubbed: https://drive.google.com/file/d/15m5regyQi10DC8OPunRnuBD9j3YyWrW6/view?usp=drive_link
